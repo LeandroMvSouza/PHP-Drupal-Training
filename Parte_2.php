@@ -1,7 +1,7 @@
 <?php
 $cpf = 76650579009;
 
-# Método retirado do link : https://www.devmedia.com.br/validando-o-cpf-em-uma-aplicacao-java/22097
+# Lógica retirada do link : https://www.devmedia.com.br/validando-o-cpf-em-uma-aplicacao-java/22097
 
 function valid_cpf($cpf)
 {
